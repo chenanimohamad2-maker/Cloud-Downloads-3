@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4781",
+  "folder": "YouTube__watch_20260517225411_f41722",
+  "base_name": "Tekken_8_Kazuya_New_PEWGF_Guide_IwsmaRyNv7U_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/tag/co-releases-v1-4781",
+  "files": [
+    {
+      "name": "Tekken_8_Kazuya_New_PEWGF_Guide_IwsmaRyNv7U_720p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/download/co-releases-v1-4781/Tekken_8_Kazuya_New_PEWGF_Guide_IwsmaRyNv7U_720p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-3/releases/assets/422777166",
+      "id": 422777166,
+      "size": 310145914,
+      "download_count": 0
+    }
+  ]
+}

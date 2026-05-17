@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1472",
+  "folder": "YouTube__watch_20260517224854_9dc186",
+  "base_name": "Kazuya_s_DF2_into_PEWGF_complete_guide_step_by_step_-_Tekken_8_DkL8XzXJsmM_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/tag/co-releases-v1-1472",
+  "files": [
+    {
+      "name": "Kazuya_s_DF2_into_PEWGF_complete_guide_step_by_step_-_Tekken_8_DkL8XzXJsmM_720p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/download/co-releases-v1-1472/Kazuya_s_DF2_into_PEWGF_complete_guide_step_by_step_-_Tekken_8_DkL8XzXJsmM_720p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-3/releases/assets/422774358",
+      "id": 422774358,
+      "size": 201004911,
+      "download_count": 0
+    }
+  ]
+}

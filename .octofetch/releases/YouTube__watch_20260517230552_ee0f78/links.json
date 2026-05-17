@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8590",
+  "folder": "YouTube__watch_20260517230552_ee0f78",
+  "base_name": "TEKKEN_8_Coaching_Series_Devil_Jin_Beginner_Middle_Ranks_NQZKitcO_bk_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/tag/co-releases-v1-8590",
+  "files": [
+    {
+      "name": "TEKKEN_8_Coaching_Series_Devil_Jin_Beginner_Middle_Ranks_NQZKitcO_bk_720p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/download/co-releases-v1-8590/TEKKEN_8_Coaching_Series_Devil_Jin_Beginner_Middle_Ranks_NQZKitcO_bk_720p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-3/releases/assets/422784006",
+      "id": 422784006,
+      "size": 1681442077,
+      "download_count": 0
+    }
+  ]
+}

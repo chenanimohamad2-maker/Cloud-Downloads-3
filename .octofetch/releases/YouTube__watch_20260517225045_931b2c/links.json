@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7607",
+  "folder": "YouTube__watch_20260517225045_931b2c",
+  "base_name": "TEKKEN_8_-_PEWGF_Timing_Guide_0uv7k7Fgmxc_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/tag/co-releases-v1-7607",
+  "files": [
+    {
+      "name": "TEKKEN_8_-_PEWGF_Timing_Guide_0uv7k7Fgmxc_720p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/download/co-releases-v1-7607/TEKKEN_8_-_PEWGF_Timing_Guide_0uv7k7Fgmxc_720p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-3/releases/assets/422775122",
+      "id": 422775122,
+      "size": 11246624,
+      "download_count": 0
+    }
+  ]
+}

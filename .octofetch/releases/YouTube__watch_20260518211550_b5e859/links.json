@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4633",
+  "folder": "YouTube__watch_20260518211550_b5e859",
+  "base_name": "Nioh_3_Is_Amazing_Combat_Showcase_Boss_Fights_dEZuhABzqxg_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/tag/co-releases-v1-4633",
+  "files": [
+    {
+      "name": "Nioh_3_Is_Amazing_Combat_Showcase_Boss_Fights_dEZuhABzqxg_1080p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/download/co-releases-v1-4633/Nioh_3_Is_Amazing_Combat_Showcase_Boss_Fights_dEZuhABzqxg_1080p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-3/releases/assets/423618955",
+      "id": 423618955,
+      "size": 327249660,
+      "download_count": 0
+    }
+  ]
+}

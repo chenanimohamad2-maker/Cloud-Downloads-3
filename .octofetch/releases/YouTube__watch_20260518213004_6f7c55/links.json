@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2017",
+  "folder": "YouTube__watch_20260518213004_6f7c55",
+  "base_name": "TEKKEN_8_Kazuya_Combo_Guide_-_31_Special_Cancel_vb2Ldd52sJM_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/tag/co-releases-v1-2017",
+  "files": [
+    {
+      "name": "TEKKEN_8_Kazuya_Combo_Guide_-_31_Special_Cancel_vb2Ldd52sJM_720p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/download/co-releases-v1-2017/TEKKEN_8_Kazuya_Combo_Guide_-_31_Special_Cancel_vb2Ldd52sJM_720p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-3/releases/assets/423627483",
+      "id": 423627483,
+      "size": 201241719,
+      "download_count": 0
+    }
+  ]
+}

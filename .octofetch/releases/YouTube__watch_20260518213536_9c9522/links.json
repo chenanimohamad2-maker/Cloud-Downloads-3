@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2242",
+  "folder": "YouTube__watch_20260518213536_9c9522",
+  "base_name": "Why_You_Get_Hit_During_a_Backdash_Jvnj5qO3joo_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/tag/co-releases-v1-2242",
+  "files": [
+    {
+      "name": "Why_You_Get_Hit_During_a_Backdash_Jvnj5qO3joo_720p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/download/co-releases-v1-2242/Why_You_Get_Hit_During_a_Backdash_Jvnj5qO3joo_720p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-3/releases/assets/423638032",
+      "id": 423638032,
+      "size": 58714318,
+      "download_count": 0
+    }
+  ]
+}

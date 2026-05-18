@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5068",
+  "folder": "YouTube__watch_20260518215535_7be359",
+  "base_name": "5_Minutes_5_Tips_Heihachi_Mishima_Tekken_8_Guide_z9GmEAtGlgc_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/tag/co-releases-v1-5068",
+  "files": [
+    {
+      "name": "5_Minutes_5_Tips_Heihachi_Mishima_Tekken_8_Guide_z9GmEAtGlgc_720p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/download/co-releases-v1-5068/5_Minutes_5_Tips_Heihachi_Mishima_Tekken_8_Guide_z9GmEAtGlgc_720p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-3/releases/assets/423652953",
+      "id": 423652953,
+      "size": 162540946,
+      "download_count": 0
+    }
+  ]
+}

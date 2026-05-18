@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6984",
+  "folder": "YouTube__watch_20260518233111_33dcf4",
+  "base_name": "Arslan_Ash_(Nina)_VS_Farzeen_(Victor)_-_TOP_32_-_DreamHack_Atlanta_vXE-W7BnHP0_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/tag/co-releases-v1-6984",
+  "files": [
+    {
+      "name": "Arslan_Ash_.Nina._VS_Farzeen_.Victor._-_TOP_32_-_DreamHack_Atlanta_vXE-W7BnHP0_1080p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/download/co-releases-v1-6984/Arslan_Ash_.Nina._VS_Farzeen_.Victor._-_TOP_32_-_DreamHack_Atlanta_vXE-W7BnHP0_1080p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-3/releases/assets/423700330",
+      "id": 423700330,
+      "size": 320321156,
+      "download_count": 0
+    }
+  ]
+}

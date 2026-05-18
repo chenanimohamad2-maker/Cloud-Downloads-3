@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9998",
+  "folder": "YouTube__watch_20260518232556_aab851",
+  "base_name": "This_Game_Needs_DLC_-_The_First_Berserker_Khazan_i0Dw9Dx2ulE_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/tag/co-releases-v1-9998",
+  "files": [
+    {
+      "name": "This_Game_Needs_DLC_-_The_First_Berserker_Khazan_i0Dw9Dx2ulE_1080p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/download/co-releases-v1-9998/This_Game_Needs_DLC_-_The_First_Berserker_Khazan_i0Dw9Dx2ulE_1080p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-3/releases/assets/423697574",
+      "id": 423697574,
+      "size": 363848094,
+      "download_count": 0
+    }
+  ]
+}

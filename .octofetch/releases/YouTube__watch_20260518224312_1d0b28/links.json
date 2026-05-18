@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6574",
+  "folder": "YouTube__watch_20260518224312_1d0b28",
+  "base_name": "Heihachi_Okizeme_Setups_You_Should_Know_About_n-K4HwjivgE_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/tag/co-releases-v1-6574",
+  "files": [
+    {
+      "name": "Heihachi_Okizeme_Setups_You_Should_Know_About_n-K4HwjivgE_720p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/download/co-releases-v1-6574/Heihachi_Okizeme_Setups_You_Should_Know_About_n-K4HwjivgE_720p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-3/releases/assets/423667024",
+      "id": 423667024,
+      "size": 158849795,
+      "download_count": 0
+    }
+  ]
+}

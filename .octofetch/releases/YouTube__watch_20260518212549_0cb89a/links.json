@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4669",
+  "folder": "YouTube__watch_20260518212549_0cb89a",
+  "base_name": "Mastering_Kazuya_s_3x_EWGF_Detailed_Combo_Guide_d1RwJKDXTiM_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/tag/co-releases-v1-4669",
+  "files": [
+    {
+      "name": "Mastering_Kazuya_s_3x_EWGF_Detailed_Combo_Guide_d1RwJKDXTiM_720p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-3/releases/download/co-releases-v1-4669/Mastering_Kazuya_s_3x_EWGF_Detailed_Combo_Guide_d1RwJKDXTiM_720p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-3/releases/assets/423624658",
+      "id": 423624658,
+      "size": 319693176,
+      "download_count": 0
+    }
+  ]
+}
